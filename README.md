@@ -8,5 +8,5 @@ create .env in root folder with SKIP_PREFLIGHT_CHECK=true
 
 # Commands
 
-yarn
+yarn &&
 yarn start
